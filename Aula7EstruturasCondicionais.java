@@ -1,6 +1,6 @@
-package JavaCursoIntroduçãoParte;
+package JavaCursoIntrodução;
 
-public class Äula7EstruturasCondicionais {
+public class Aula7EstruturasCondicionais {
     public static void main(String[] args) {
         double salario = 12000;
 

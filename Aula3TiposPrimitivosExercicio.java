@@ -1,4 +1,4 @@
-package JavaCursoIntroduçãoParte;
+package JavaCursoIntrodução;
 
 public class Aula3TiposPrimitivosExercicio {
     public static void main(String[] args) {
